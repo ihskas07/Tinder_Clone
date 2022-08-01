@@ -9,7 +9,7 @@ function Chats() {
     <div className="chats">
         <Chat                    //components in chat page
         name="Sam"
-        message="Hey you!"
+        message="Hey you!!"
         timestamp="40 seconds ago"
         profilePic="https://i.pinimg.com/474x/12/3a/a3/123aa37e604bc4fdc959dd7d9dba2a75.jpg"
       />
@@ -21,7 +21,7 @@ function Chats() {
       />
       <Chat
         name="Jack"
-        message="hey,See you in 5!"
+        message="Hey,see you in 5!"
         timestamp="2 minutes ago"
         profilePic="https://i.pinimg.com/736x/c3/d5/3f/c3d53f0489b026890d2ecc1483522b57.jpg"
       />
