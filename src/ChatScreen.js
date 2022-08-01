@@ -8,18 +8,18 @@ function ChatScreen() {
 
         //**********Sender end*******
         {
-          name: "Mark",
-          image:"....",
-          message: "Whats up",
+          name: "Zee",
+          image:"https://i.pinimg.com/736x/7d/38/d9/7d38d967cdf1322ae9b7734ba85c3cc2.jpg",
+          message: "Hey whats up",
         },
         {
-          name: "Mark",
-          image:"...",
+          name: "Zee",
+          image:"https://i.pinimg.com/736x/7d/38/d9/7d38d967cdf1322ae9b7734ba85c3cc2.jpg",
           message: "Good morning",
         },
         //*********Reciever end*********
         {
-          message: "Hey, how are you Mark",
+          message: "Hey, how are you Zee",
         },
       ]);
 
@@ -34,7 +34,7 @@ function ChatScreen() {
     
   return (
     < div className="chatScreen">
-      <p className="chatScreen__timestamp">You matched with Mark on 30/08/20</p>
+      <p className="chatScreen__timestamp">You matched with Zee on 30/08/22</p>
       {messages.map((message)=> message.name ? (
         <div className='chatScreen__message'>
           <Avatar

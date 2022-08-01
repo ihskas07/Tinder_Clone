@@ -8,28 +8,28 @@ function Chats() {
   return (
     <div className="chats">
         <Chat                    //components in chat page
-        name="Aaaaa"
+        name="Sam"
         message="Hey you!"
         timestamp="40 seconds ago"
-        profilePic="...."
+        profilePic="https://i.pinimg.com/474x/12/3a/a3/123aa37e604bc4fdc959dd7d9dba2a75.jpg"
       />
         <Chat
-        name="Bbbbbbb"
-        message="hey, can't wait to see you!"
+        name="Tim"
+        message="Hey, can't wait to see you!"
         timestamp="1 minute ago"
-        profilePic="https://pbs.twimg.com/media/CaFhxafUsAAylES.jpg"
+        profilePic="https://i.pinimg.com/236x/2c/bc/49/2cbc495e17000f54397100229e5a4a0f--letter-t-tima.jpg"
       />
       <Chat
-        name="Ccccccc"
+        name="Jack"
         message="hey,See you in 5!"
         timestamp="2 minutes ago"
-        profilePic="https://images.fullhdwallpaper.net/wp-content/uploads/2018/02/cute-smile-pics-of-Emma-Stone.jpg"
+        profilePic="https://i.pinimg.com/736x/c3/d5/3f/c3d53f0489b026890d2ecc1483522b57.jpg"
       />
        <Chat
-        name="Ddddddd"
+        name="Mark"
         message="Wanna get some Coffee?!"
         timestamp="3 minutes ago"
-        profilePic="https://1.bp.blogspot.com/-A-CkdSDX8I0/XWlD2HLUCxI/AAAAAAAADMs/7I_5Ud4-zMYk0xpFj3cp9amkIC2Z5qA9QCLcBGAs/s1600/Paz%2BVega.png"
+        profilePic="https://i.pinimg.com/736x/09/d1/df/09d1dfd3ad53cb18677ea097bd5e5bdb.jpg"
       />
     </div>
   );
