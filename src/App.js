@@ -18,7 +18,7 @@ function App() {
             <ChatScreen/>
           </Route>
           <Route exact path='/chat' >
-            <Header backButton='/'/>       {/*back to home from msges*/}
+            <Header backButton='/inder_Clone'/>       {/*back to home from msges*/}
             <Chats/>
           </Route>
           <Route exact path='/Tinder_Clone'>         {/* DEFAULT ROOT SHOULD ALWAYS BE AT THE BOTTOM,   / to /Tinder_Clone */}
