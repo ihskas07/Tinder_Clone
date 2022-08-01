@@ -10,16 +10,16 @@ function ChatScreen() {
         {
           name: "Zee",
           image:"https://i.pinimg.com/736x/7d/38/d9/7d38d967cdf1322ae9b7734ba85c3cc2.jpg",
-          message: "Hey whats up",
+          message: "Hey whats up!!",
         },
         {
           name: "Zee",
           image:"https://i.pinimg.com/736x/7d/38/d9/7d38d967cdf1322ae9b7734ba85c3cc2.jpg",
-          message: "Good morning",
+          message: "Good morning...",
         },
         //*********Reciever end*********
         {
-          message: "Hey, how are you Zee",
+          message: "Hey, how are you Zee?",
         },
       ]);
 
