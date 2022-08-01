@@ -21,7 +21,7 @@ function Header({backButton}) {
         </IconButton>
       )}
 
-            <Link to='/'>
+            <Link to='/Tinder_Clone'>
             <img 
             className='header__logo'
             src="https://www.logo.wine/a/logo/Tinder_(app)/Tinder_(app)-Flame-Logo.wine.svg" 
