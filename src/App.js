@@ -21,7 +21,7 @@ function App() {
             <Header backButton='/'/>       {/*back to home from msges*/}
             <Chats/>
           </Route>
-          <Route exact path='/'>         {/* DEFAULT ROOT SHOULD ALWAYS BE AT THE BOTTOM */}
+          <Route exact path='/Tinder_Clone'>         {/* DEFAULT ROOT SHOULD ALWAYS BE AT THE BOTTOM */}
             <Header/>
             <TinderCards/>
             <SwipeButtons/>
