@@ -2,7 +2,7 @@
   "homepage": "https://ihskas07.github.io/Tinder_Clone",
   "name": "tinder",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
